@@ -20,8 +20,6 @@ redirect_from:
 Hi, I'm Xiongzhi Wang(王雄智). I am currently pursuing my Ph.D. degree (combined Master–Ph.D. program) at the School of Aerospace Science and Technology, Xidian University, Xi'an, China. I have also studied as an exchange student at the School of Future Technology, University of Chinese Academy of Sciences in Beijing, and the College of Computer Science at Nankai University in Tianjin.
 
 My research focuses on 3D reconstruction and stereo depth estimation, with applications in endoscopic vision and medical image analysis. I am particularly interested in advancing deep learning-based perception for minimally invasive surgical environments.
-I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
