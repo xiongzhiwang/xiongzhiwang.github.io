@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xiongzhi Wang"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "xiongzhiwang/xiongzhiwang.github.io"
+description              : "Always learning, always curious. "
+repository               : "https://xiongzhiwang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiongzhi Wang"
-  avatar           : "images/wxz.jpg"
+  avatar           : "images/wxz.png"
   bio              : "XIDIAN University"
   location         : "XIAN, China"
   employer         :
