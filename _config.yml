@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiongzhi Wang"
-  avatar           : "images/wxz.png"
+  avatar           : "images/wxz.jpg"
   bio              : "XIDIAN University"
   location         : "XIAN, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "sxwnwxz@163.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Xiongzhi-Wang"
   uri              :
   bitbucket        :
   codepen          :
