@@ -27,19 +27,23 @@ My research focuses on 3D reconstruction and stereo depth estimation, with appli
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Deep convolutional network for stereo depth mapping in binocular endoscopy
+**Xiongzhi Wang**, Yunfeng Nie, Shaoping Lu, Jingang Zhang  
+*IEEE Access*, 2020, 8: 73241–73249  
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine 
+Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
+*China’s e-Science Blue Book 2023*, Springer Nature, 2024: 397–413  
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Multi-scale, multi-dimensional binocular endoscopic image depth estimation network  
+**Xiongzhi Wang**, Yunfeng Nie, Wenqi Ren, Min Wei, Jingang Zhang  
+*Computers in Biology and Medicine*, 2023, 164: 107305  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+Deep learning for endoscopic depth estimation: A review  
+**Xiongzhi Wang**, Boyu Yang, Min Wei, Liangfa Liu, Jingang Zhang, Yunfeng Nie  
+*Displays*, 2025: 103086  
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
