@@ -27,7 +27,7 @@ author:
   location         : "XIAN, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "sxwnwxz@163.com"
   researchgate     : "https://www.researchgate.net/profile/Xiongzhi-Wang"
   uri              :
