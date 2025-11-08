@@ -27,13 +27,9 @@ My research focuses on 3D reconstruction and stereo depth estimation, with appli
 
 # 📝 Publications 
 
-Deep convolutional network for stereo depth mapping in binocular endoscopy
+Deep convolutional network for stereo depth mapping in binocular endoscopy  
 **Xiongzhi Wang**, Yunfeng Nie, Shaoping Lu, Jingang Zhang  
 *IEEE Access*, 2020, 8: 73241–73249  
-
-Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine 
-Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
-*China’s e-Science Blue Book 2023*, Springer Nature, 2024: 397–413  
 
 Multi-scale, multi-dimensional binocular endoscopic image depth estimation network  
 **Xiongzhi Wang**, Yunfeng Nie, Wenqi Ren, Min Wei, Jingang Zhang  
@@ -42,6 +38,15 @@ Multi-scale, multi-dimensional binocular endoscopic image depth estimation netwo
 Deep learning for endoscopic depth estimation: A review  
 **Xiongzhi Wang**, Boyu Yang, Min Wei, Liangfa Liu, Jingang Zhang, Yunfeng Nie  
 *Displays*, 2025: 103086  
+
+# 📚 Books & Book Chapters
+
+Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine   
+Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
+*China’s e-Science Blue Book 2023*, Springer Nature, 2024: 397–413  
+
+计算工程光学(Python版),西安电子科技大学出版社,2023.07  
+张金刚,聂云峰,付强,**王雄智**
 
 
 
