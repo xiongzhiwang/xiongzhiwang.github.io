@@ -59,6 +59,20 @@ Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Ku
 - *2018.09 - 2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2014.09 - 2018.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
+
+**Ph.D. (Combined Master–Ph.D. Program), Instrument Science and Technology**  
+School of Aerospace Science and Technology, Xidian University, Xi'an, China  
+*Mar. 2021 – Present*
+
+**M.Eng., Computer Technology**  
+School of Computer Science and Technology, Xidian University, Xi'an, China  
+*Sep. 2018 – Mar. 2021*
+
+**B.Sc., Information and Technology Science**  
+College of Science, China University of Petroleum (East China), Qingdao, China  
+*Sep. 2014 – Jun. 2018*
+
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
