@@ -48,34 +48,22 @@ Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Ku
 计算工程光学(Python版),西安电子科技大学出版社,2023.07  
 张金刚,聂云峰,付强,**王雄智**
 
-
-
+<p hidden>
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</p>
 
 # 📖 Educations
-- *2021.03 - 2025.12 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2018.09 - 2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2014.09 - 2018.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03 - 2025.12 (now)*, Instrument Science and Technology, School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
+- *2018.09 - 2021.03*, Computer Technology, School of Computer Science and Technology, Xidian University, Xi'an, China.
+- *2014.09 - 2018.06*, Information and Technology Science, College of Science, China University of Petroleum (East China), Qingdao, China. 
 
-
-**Ph.D. (Combined Master–Ph.D. Program), Instrument Science and Technology**  
-School of Aerospace Science and Technology, Xidian University, Xi'an, China  
-*Mar. 2021 – Present*
-
-**M.Eng., Computer Technology**  
-School of Computer Science and Technology, Xidian University, Xi'an, China  
-*Sep. 2018 – Mar. 2021*
-
-**B.Sc., Information and Technology Science**  
-College of Science, China University of Petroleum (East China), Qingdao, China  
-*Sep. 2014 – Jun. 2018*
-
-
+<p hidden>
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+</p>
