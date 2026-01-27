@@ -40,7 +40,7 @@ Deep learning for endoscopic depth estimation: A review
 
 Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Splatting  
 **Xiongzhi Wang**, Boyu Yang, Min Wei, Yu Chen, Jingang Zhang, Yunfeng Nie  
-*Displays*, 2026: 103000  
+*Displays*, 2026: 103353  
 
 # 📚 Books & Book Chapters
 
