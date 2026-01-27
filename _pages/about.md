@@ -38,6 +38,10 @@ Deep learning for endoscopic depth estimation: A review
 **Xiongzhi Wang**, Boyu Yang, Min Wei, Liangfa Liu, Jingang Zhang, Yunfeng Nie  
 *Displays*, 2025: 103086  
 
+Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Splatting  
+**Xiongzhi Wang**, Boyu Yang, Min Wei, Yu Chen, Jingang Zhang, Yunfeng Nie  
+*Displays*, 2026: 103000  
+
 # 📚 Books & Book Chapters
 
 Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine   
