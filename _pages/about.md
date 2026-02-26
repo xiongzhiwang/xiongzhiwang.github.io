@@ -71,3 +71,5 @@ Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Ku
 # 💻 Teaching
 - Intelligent Image Processing with Python, Teaching Assistant - Fall 2021-2025
 
+# 📄 Academic Service
+- Npj Digital Surgery, Scientific Reports, Scientific Data
