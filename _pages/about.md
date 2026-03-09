@@ -58,7 +58,7 @@ Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Ku
 </p>
 
 # 📖 Educations
-- *2021.03 - 2025.12 (now)*, Instrument Science and Technology, School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
+- *2021.03 - 2026.06*, Instrument Science and Technology, School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
 - *2018.09 - 2021.03*, Computer Technology, School of Computer Science and Technology, Xidian University, Xi'an, China.
 - *2014.09 - 2018.06*, Information and Technology Science, College of Science, China University of Petroleum (East China), Qingdao, China. 
 
