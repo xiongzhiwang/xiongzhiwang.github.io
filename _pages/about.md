@@ -22,7 +22,7 @@ Hi, I'm Xiongzhi Wang(王雄智, born in September 1995). I am currently pursuin
 My research focuses on 3D reconstruction and stereo depth estimation, with applications in endoscopic vision and medical image analysis. I am particularly interested in advancing deep learning-based perception for minimally invasive surgical environments.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 May God bless me. 
+- *2026.03*: &nbsp;🎉🎉 May God bless me. 
 
 # 📝 Publications 
 
@@ -36,12 +36,12 @@ My research focuses on 3D reconstruction and stereo depth estimation, with appli
 <span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Boyu Yang, Min Wei, Yu Chen, Jingang Zhang, Yunfeng Nie
 Displays, 2026: 103353
 
-- Combines stereo depth estimation and Gaussian splatting for photometric supervision.
+- Merges depth estimation and Gaussian splatting for photometric supervision.
 - Achieved superior quality on **ENDONERF** and **SCARED** surgical datasets.
 - Enhances geometric perception for robotic-assisted endoscopic surgery workflows.
 
 <div style="display: inline">
-        <a href="docs/papers/2026_X.Z._Wang_Endo E2E GS End-to-end 3D reconstruction of endoscopic scenes using.pdf"> [paper]</a>
+        <a href="docs/papers/endoe2e.pdf"> [paper]</a>
         <a href="https://github.com/Intelligent-Imaging-Center/Endo-E2E-GS">[code]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
@@ -70,7 +70,7 @@ Computers in Biology and Medicine, 2023, 164: 107305
 - A novel CNN network is proposed for estimating the depth of binocular image pairs.
 
 <div style="display: inline">
-        <a href="docs/papers/2023_X.Z._Wang_Multi-scale, multi-dimensional binocular endoscopic image depth estimation.pdf"> [paper]</a>
+        <a href="docs/papers/mmnet.pdf"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> During invasive surgery, the use of deep learning techniques to acquire depth information from lesion sites in real-time is hindered by the lack of endoscopic environmental datasets. This work aims to develop a high-accuracy three-dimensional (3D) simulation model for generating image datasets and acquiring depth information in real-time. Here, we proposed an end-to-end multi-scale supervisory depth estimation network (MMDENet) model for the depth estimation of pairs of binocular images. The proposed MMDENet highlights a multi-scale feature extraction module incorporating contextual information to enhance the correspondence precision of poorly exposed regions. A multi-dimensional information-guidance refinement module is also proposed to refine the initial coarse disparity map. Statistical experimentation demonstrated a 3.14% reduction in endpoint error compared to state-of-the-art methods. With a processing time of approximately 30fps, satisfying the requirements of real-time operation applications. In order to validate the performance of the trained MMDENet in actual endoscopic images, we conduct both qualitative and quantitative analysis with 93.38% high precision, which holds great promise for applications in surgical navigation. </p>
@@ -100,7 +100,7 @@ Displays, 2025: 103086
 - Suggests future work: high-quality data and lightweight models for endoscopy.
 
 <div style="display: inline">
-        <a href="docs/papers/2025_X.Z._Wang_Deep learning for endoscopic depth estimation A review.pdf"> [paper]</a>
+        <a href="docs/papers/survey.pdf"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> Depth estimation is a fundamental task in computer vision, crucial for applications such as endoscopic surgical navigation. This paper comprehensively reviews recent advancements in endoscopic depth estimation algorithms utilizing deep learning. We start by briefly describing the basic principles behind depth estimation and how depth maps can be generated from monocular and binocular cues. We then analyze the characteristics of the endoscopic dataset. Subsequently, we provide an overview of deep learning applications in endoscopic depth estimation, encompassing supervised, self-supervised, and semi-supervised learning methods. We examine each method’s principles, advantages, and disadvantages and their performance in practical applications. Additionally, we summarize the performance of current deep learning methods in endoscopic depth estimation and explore the importance of model robustness and generalization capabilities. Finally, we propose potential future research directions, such as exploring methods for collecting high-quality data or using simulated data to overcome current dataset limitations, and developing lightweight models to enhance real-time performance and robustness. This study aims to offer a comprehensive review for researchers in the field of endoscopic depth estimation, thereby fostering further development in this area. </p>
@@ -125,10 +125,9 @@ IEEE Access, 2020, 8: 73241–73249
 - Generates binocular endoscopy datasets via 3D gastrointestinal simulation
 - Proposes a 23-layer lightweight CNN for real-time stereo depth mapping
 - Designs a scale-invariant loss function for endoscopic image characteristics
-- Validates the model’s outperformance over SOTA methods in accuracy and speed
 
 <div style="display: inline">
-        <a href="docs/papers/2020_X.Z._Wang_Deep Convolutional Network for Stereo Depth Mapping in Binocular Endoscopy.pdf"> [paper]</a>
+        <a href="docs/papers/stereonet.pdf"> [paper]</a>
         <a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()" >[abstract]</a>
         <div class="abstract"  style="overflow: hidden; display: none;">  
             <p> Depth mapping from binocular endoscopy images plays an important role in stereoscopic surgical treatment. Owing to the development of deep convolutional neural networks (CNNs), binocular depth estimation models have achieved many exciting results in the felds of autonomous driving and machine vision. However, the application of these methods to endoscopic imaging is greatly limited by the fact that binocular endoscopic images not only are rare, but also have unsatisfying features such as no texture,
