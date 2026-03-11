@@ -66,8 +66,8 @@ Displays, 2026: 103353
 Computers in Biology and Medicine, 2023, 164: 107305
 
 - The depth estimation problem in the endoscopy environment is investigated.
-- An effective method for generating endoscopic image datasets with depth information.
-- A novel CNN network is proposed for estimating the depth of binocular image pairs.
+- Method for generating endoscopic image datasets with depth information.
+- A CNN network is proposed for estimating the depth of binocular image pairs.
 
 <div style="display: inline">
         <a href="docs/papers/mmnet.pdf"> [paper]</a>
