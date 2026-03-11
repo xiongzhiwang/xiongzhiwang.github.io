@@ -159,7 +159,7 @@ Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Sp
 *Displays*, 2026: 103353  
 </p>
 
-# 📚 Books & Book Chapters
+# 📚 Books & Book Chapters {: #-books--book-chapters}
 
 Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine   
 Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
@@ -174,7 +174,7 @@ Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Ku
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </p>
 
-# 📖 Educations
+# 📖 Educations {: #-educations}
 - *2021.03 - 2026.06*, Instrument Science and Technology, School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
 - *2018.09 - 2021.03*, Computer Technology, School of Computer Science and Technology, Xidian University, Xi'an, China.
 - *2014.09 - 2018.06*, Information and Technology Science, College of Science, China University of Petroleum (East China), Qingdao, China. 
@@ -185,8 +185,8 @@ Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Ku
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 </p>
 
-# 💻 Teaching
+# 💻 Teaching {: #-teaching}
 - Intelligent Image Processing with Python, Teaching Assistant - Fall 2021-2025
 
-# 📄 Academic Service
+# 📄 Academic Service {: #-academic-service}
 - Npj Digital Surgery, Scientific Reports, Scientific Data
