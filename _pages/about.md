@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xiongzhi Wang(王雄智). I am currently pursuing my Ph.D. degree (combined Master–Ph.D. program) at the School of Aerospace Science and Technology, Xidian University, Xi'an, China. I have also studied as an exchange student at the School of Future Technology, University of Chinese Academy of Sciences in Beijing, and the College of Computer Science at Nankai University in Tianjin.
+Hi, I'm Xiongzhi Wang(王雄智, born in September 1995). I am currently pursuing my Ph.D. degree (combined Master–Ph.D. program) at the School of Aerospace Science and Technology, Xidian University, Xi'an, China. I have also studied as an exchange student at the School of Future Technology, University of Chinese Academy of Sciences in Beijing, and the College of Computer Science at Nankai University in Tianjin.
 
 My research focuses on 3D reconstruction and stereo depth estimation, with applications in endoscopic vision and medical image analysis. I am particularly interested in advancing deep learning-based perception for minimally invasive surgical environments.
 
