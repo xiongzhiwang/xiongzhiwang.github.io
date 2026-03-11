@@ -138,6 +138,7 @@ considerable training data for typical CNNs, our method requires only a few imag
 </div>
 
 </div>
+</div>
 
 
 
