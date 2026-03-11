@@ -26,6 +26,7 @@ My research focuses on 3D reconstruction and stereo depth estimation, with appli
 
 # 📝 Publications 
 
+<p hidden>
 [//]: #	"FasterDiffusion"
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/stereonet.png' alt="sym" width="100%"></div></div>
@@ -52,6 +53,7 @@ My research focuses on 3D reconstruction and stereo depth estimation, with appli
 
 </div>
 </div>
+</p>
 
 Deep convolutional network for stereo depth mapping in binocular endoscopy  
 **Xiongzhi Wang**, Yunfeng Nie, Shaoping Lu, Jingang Zhang  
