@@ -10,13 +10,13 @@ main:
     url: "/#-publications"
 
   - title: "Books"
-    url: "/#-Books & Book Chapters"
+    url: "/#-books--book-chapters"
 
   - title: "Educations"
-    url: "/#-Educations"
+    url: "/#-educations"
 
   - title: "Teaching"
-    url: "/#-Teaching"
+    url: "/#-teaching"
 
   - title: "Academic Service"
-    url: "/#-Academic Service"
+    url: "/#-academic-service"
