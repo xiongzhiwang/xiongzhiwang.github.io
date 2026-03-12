@@ -163,7 +163,7 @@ Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Sp
 
 [//]: #	"Lanpishu"
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/others/lanpishu.png' alt="sym" width="20px" height="30px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/others/lanpishu.png' alt="sym" width="80px" height="120px"></div></div>
 <div class='paper-box-text' markdown="1">
 Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine   
 Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, <span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
@@ -174,7 +174,7 @@ China’s e-Science Blue Book 2023, Springer Nature, 2024: 397–413
 
 [//]: #	"jisuan"
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/others/jisuan.png' alt="sym" width="20px" height="30px"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/others/jisuan.png' alt="sym" width="80px" height="120px"></div></div>
 <div class='paper-box-text' markdown="1">
 计算工程光学(Python版)
 张金刚,聂云峰,付强,<span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>
