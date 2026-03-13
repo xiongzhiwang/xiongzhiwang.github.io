@@ -114,7 +114,7 @@ Displays, 2025: 103086
 
 [//]: #	"StereoNet"
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院2区</div><img src='images/papers/stereonet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院2区</div><img src='images/papers/stereonet1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Deep convolutional network for stereo depth mapping in binocular endoscopy](https://ieeexplore.ieee.org/document/9064889/)
 
