@@ -164,11 +164,11 @@ Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Sp
 # 📚 Books & Book Chapters
 
 
-**Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine**  
+Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine  
 Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
 China’s e-Science Blue Book 2023, Springer Nature, 2024: 397–413  
 
-**计算工程光学(Python版)**  
+计算工程光学(Python版) 
 张金刚,聂云峰,付强,**王雄智** 
 西安电子科技大学出版社,2023.07  
 
