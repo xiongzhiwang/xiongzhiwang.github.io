@@ -39,7 +39,7 @@ My research focuses on **real-time stereo depth estimation**, **3D reconstructio
 Displays, 2026: 103353
 
 - Merges depth estimation and Gaussian splatting for photometric supervision.
-- Achieved superior quality on **ENDONERF** and **SCARED** surgical datasets.
+- Achieved superior quality on ENDONERF and SCARED surgical datasets.
 - Enhances geometric perception for robotic-assisted endoscopic surgery workflows.
 
 <div style="display: inline">
