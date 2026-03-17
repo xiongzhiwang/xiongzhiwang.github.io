@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I'm Xiongzhi Wang(王雄智, born in September 1995). I am currently pursuing my Ph.D. degree (combined Master–Ph.D. program) at the School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
 I have also studied as an exchange student at the School of Future Technology, University of Chinese Academy of Sciences in Beijing, 
-and the <a href="https://mmcheng.net/" target="_blank" style="color: #0366d6; text-decoration: none;">Media Computing Lab (MC Lab)</a> at the College of Computer Science, Nankai University in Tianjin.
+and the <a href="https://mmcheng.net/" target="_blank" style="color: #0366d6; text-decoration: none;">Media Computing Lab</a> at the College of Computer Science, Nankai University in Tianjin.
 
 My research focuses on **real-time stereo depth estimation**, **3D reconstruction**, and **neural rendering**. I specialize in developing high-performance perception frameworks for challenging environments, extending from minimally invasive surgery to autonomous driving and industrial digital twins. By combining mathematical modeling with deep learning, I strive to solve real-world perception bottlenecks through efficient, edge-deployable solutions.
 
@@ -35,7 +35,7 @@ My research focuses on **real-time stereo depth estimation**, **3D reconstructio
 
 [Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Splatting](https://www.sciencedirect.com/science/article/pii/S0141938226000168)
 
-<span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Boyu Yang, Min Wei, Yu Chen, Jingang Zhang, Yunfeng Nie
+**Xiongzhi Wang**, Boyu Yang, Min Wei, Yu Chen, Jingang Zhang, Yunfeng Nie
 Displays, 2026: 103353
 
 - Merges depth estimation and Gaussian splatting for photometric supervision.
@@ -63,7 +63,7 @@ Displays, 2026: 103353
 
 [Multi-scale, multi-dimensional binocular endoscopic image depth estimation network](https://www.sciencedirect.com/science/article/pii/S0010482523007709)
 
-<span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Yunfeng Nie, Wenqi Ren, Min Wei, Jingang Zhang
+**Xiongzhi Wang**, Yunfeng Nie, Wenqi Ren, Min Wei, Jingang Zhang
 
 Computers in Biology and Medicine, 2023, 164: 107305
 
@@ -93,7 +93,7 @@ Computers in Biology and Medicine, 2023, 164: 107305
 
 [Deep learning for endoscopic depth estimation: A review](https://www.sciencedirect.com/science/article/pii/S0141938225001234)
 
-<span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Boyu Yang, Min Wei, Liangfa Liu, Jingang Zhang, Yunfeng Nie
+**Xiongzhi Wang**, Boyu Yang, Min Wei, Liangfa Liu, Jingang Zhang, Yunfeng Nie
 Displays, 2025: 103086
 
 - Reviews the application of deep learning in endoscopic depth estimation.
@@ -120,7 +120,7 @@ Displays, 2025: 103086
 <div class='paper-box-text' markdown="1">
 [Deep convolutional network for stereo depth mapping in binocular endoscopy](https://ieeexplore.ieee.org/document/9064889/)
 
-<span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Yunfeng Nie, Shaoping Lu, Jingang Zhang
+**Xiongzhi Wang**, Yunfeng Nie, Shaoping Lu, Jingang Zhang
 
 IEEE Access, 2020, 8: 73241–73249
 
@@ -165,11 +165,11 @@ Endo-E2E-GS: End-to-end 3D reconstruction of endoscopic scenes using Gaussian Sp
 
 
 **Research and Exploration of Endoscopic Image Big Data Technology Serving Precision Medicine**  
-Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, <span style="color: #0000FF;"><strong>Xiongzhi Wang</strong></span>, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
+Jingang Zhang, Liang Zong, Min Wei, Wenqi Ren, **Xiongzhi Wang**, Yanbo Dong, Kun Liu, Liangfa Liu, Shiming Yang  
 China’s e-Science Blue Book 2023, Springer Nature, 2024: 397–413  
 
 **计算工程光学(Python版)**  
-张金刚,聂云峰,付强,<span style="color: #0000FF;"><strong>王雄智</strong></span>  
+张金刚,聂云峰,付强,**王雄智** 
 西安电子科技大学出版社,2023.07  
 
 
