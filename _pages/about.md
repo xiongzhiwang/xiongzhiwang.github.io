@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Xiongzhi Wang(王雄智, born in September 1995). I am currently pursuing my Ph.D. degree (combined Master–Ph.D. program) at the School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
-I have also studied as an exchange student at the School of Future Technology, University of Chinese Academy of Sciences in Beijing, 
-and the <a href="https://mmcheng.net/" target="_blank" style="color: #0366d6; text-decoration: none;">Media Computing Lab</a> at the College of Computer Science, Nankai University in Tianjin.
+Hi, I'm Xiongzhi Wang(王雄智, born in September 1995). 
+Currently, I am a Faculty Member at Xi'an University of Technology. 
+I received my Ph.D. degree from the School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
+During my doctoral studies, I also conducted research as a visiting/exchange scholar at the School of Future Technology, University of Chinese Academy of Sciences (UCAS) in Beijing, and the <a href="https://mmcheng.net/" target="_blank" style="color: #0366d6; text-decoration: none;">Media Computing Lab</a> at Nankai University in Tianjin.
 
 My research focuses on **real-time stereo depth estimation**, **3D reconstruction**, and **neural rendering**. I specialize in developing high-performance perception frameworks for challenging environments, extending from minimally invasive surgery to autonomous driving and industrial digital twins. By combining mathematical modeling with deep learning, I strive to solve real-world perception bottlenecks through efficient, edge-deployable solutions.
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 May God bless me. 
+- *2026.10*: &nbsp;🎉🎉 Go! Go! Go! 
 
 # 📝 Publications 
 
@@ -181,7 +182,7 @@ China’s e-Science Blue Book 2023, Springer Nature, 2024: 397–413
 </p>
 
 # 📖 Educations
-- *2021.03 - 2026.06*, Instrument Science and Technology, School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
+- *2021.03 - 2026.09*, Instrument Science and Technology, School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
 - *2018.09 - 2021.03*, Computer Technology, School of Computer Science and Technology, Xidian University, Xi'an, China.
 - *2014.09 - 2018.06*, Information and Technology Science, College of Science, China University of Petroleum (East China), Qingdao, China. 
 
