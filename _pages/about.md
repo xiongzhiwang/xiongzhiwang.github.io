@@ -20,9 +20,9 @@ redirect_from:
 Hi, I'm Xiongzhi Wang(王雄智, born in September 1995). 
 Currently, I am a Faculty Member at Xi'an University of Technology. 
 I received my Ph.D. degree from the School of Aerospace Science and Technology, Xidian University, Xi'an, China. 
-During my doctoral studies, I also conducted research as a visiting/exchange scholar at the School of Future Technology, University of Chinese Academy of Sciences (UCAS) in Beijing, and the <a href="https://mmcheng.net/" target="_blank" style="color: #0366d6; text-decoration: none;">Media Computing Lab</a> at Nankai University in Tianjin.
+During my doctoral studies, I also conducted research as a visiting scholar at the School of Future Technology, University of Chinese Academy of Sciences (UCAS) in Beijing, and the <a href="https://mmcheng.net/" target="_blank" style="color: #0366d6; text-decoration: none;">Media Computing Lab</a> at Nankai University in Tianjin.
 
-My research focuses on **real-time stereo depth estimation**, **3D reconstruction**, and **neural rendering**. I specialize in developing high-performance perception frameworks for challenging environments, extending from minimally invasive surgery to autonomous driving and industrial digital twins. By combining mathematical modeling with deep learning, I strive to solve real-world perception bottlenecks through efficient, edge-deployable solutions.
+My research focuses on **real-time stereo depth estimation**, **3D reconstruction**, **neural rendering**, and **computational optical imaging**. The goal is to improve how computers sense and rebuild 3D scenes. My work targets complex applications such as minimally invasive surgery, autonomous driving, and industrial digital twins. 
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉🎉 Go! Go! Go! 
